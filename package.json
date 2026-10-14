@@ -1,0 +1,1 @@
+{"dependencies":{"@whiskeysockets/baileys":"^6.7.18","express":"^4.19.2","qrcode":"^1.5.4"},"description":"WhatsApp order auto-forward relay for TAJ COLLECTIONS — receives store orders and forwards them from Phone 1 to Phone 2 via WhatsApp","license":"MIT","main":"server.js","name":"taj-order-relay","scripts":{"start":"node server.js"},"version":"1.0.0"}
